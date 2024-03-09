@@ -1,0 +1,7 @@
+celery
+redis
+requests
+asyncio
+aiogram
+sqlalchemy
+psycopg2-binary
